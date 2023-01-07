@@ -1,0 +1,7 @@
+.layer-flex{
+    display: flex;
+    justify-content: space-between;
+}
+.layer{
+    margin: 0px 30px;
+}
